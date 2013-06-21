@@ -1,0 +1,16 @@
+3D Gfx
+Simple Audio track with effects
+Support for 1-6 players simultainiously
+Basic Lobby with
+  Chat room
+  Create Game
+  Join Game
+
+Pong surface is a hexagon?
+Computer plays all other pong paddles
+
+Text displayed is 
+	Username + Match Wins under paddle
+
+How to log in?
+	Google Sign in enabled? 
